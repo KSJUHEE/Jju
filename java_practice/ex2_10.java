@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class ex2_10 {
 	public static void main(String[] args) {
-		 // 입력값 받기
+		// 입력값 받기
 		Scanner scanner = new Scanner(System.in);
 
 		// 출력
